@@ -1,5 +1,13 @@
+<<<<<<< HEAD
+﻿
+=======
 Nội dung sửa từ github conflict
  Hello Mentor
+>>>>>>> 431de6be789cdb844b0b3998c4a31ab534684ee8
+=======
+Nội dung sửa từ github conflict
+ Hello Mentor
+>>>>>>> 431de6be789cdb844b0b3998c4a31ab534684ee8
 This is my first commit to the repository. I am excited to learn and contribute to the project. Looking forward to working with you and the team!
 If you have any questions is it ok to ask?
 Hello Mentor, I have a question about the project. Can you please help me?
