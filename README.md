@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ﻿
+=======
+Nội dung sửa từ github conflict
+ Hello Mentor
+>>>>>>> 431de6be789cdb844b0b3998c4a31ab534684ee8
 =======
 Nội dung sửa từ github conflict
  Hello Mentor
