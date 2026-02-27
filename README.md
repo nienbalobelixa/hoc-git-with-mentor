@@ -1,8 +1,12 @@
-﻿Nội dung sửa tại máy tính local kkk
-Hello Mentor
+﻿
+=======
+Nội dung sửa từ github conflict
+ Hello Mentor
+>>>>>>> 431de6be789cdb844b0b3998c4a31ab534684ee8
 This is my first commit to the repository. I am excited to learn and contribute to the project. Looking forward to working with you and the team!
 If you have any questions is it ok to ask?
 Hello Mentor, I have a question about the project. Can you please help me?
 
 Chào anh đây là lúc em sửa file .gittignore chặn các file rác không liên quan để commit chuyên nghiệp e sử dụng từ khóa docs: 
 Dòng này được sửa trực tiếp trên GitHub để test Hàng 5.
+
