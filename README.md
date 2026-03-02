@@ -21,3 +21,4 @@ Hello Mentor, I have a question about the project. Can you please help me?
 Chào anh đây là lúc em sửa file .gittignore chặn các file rác không liên quan để commit chuyên nghiệp e sử dụng từ khóa docs: 
 Dòng này được sửa trực tiếp trên GitHub để test Hàng 5. dong nay da duoc sua
 Dòng này tôi sử dụng để học lại branch và pull  fetch
+dòng này test lệnh push pull request 
