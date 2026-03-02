@@ -22,4 +22,4 @@ Chào anh đây là lúc em sửa file .gittignore chặn các file rác không 
 Dòng này được sửa trực tiếp trên GitHub để test Hàng 5. dong nay da duoc sua
 Dòng này tôi sử dụng để học lại branch và pull  fetch
 dòng này test lệnh push pull request 
-dòng 25 này dùng để sửa lỗi trong file A 
+dòng 25 này dùng để sửa lỗi trong file A fsdjfnsdjfgjsdfjdjf
