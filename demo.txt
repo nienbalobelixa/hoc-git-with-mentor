@@ -1,1 +1,2 @@
 xin chào đây là file demo B 
+Xin chào từ feature A
