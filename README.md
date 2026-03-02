@@ -12,4 +12,4 @@ Dòng này tôi sử dụng để học lại branch và pull  fetch
 dòng này test lệnh push pull request 
 dòng 25 này dùng để sửa lỗi trong file A fsdjfnsdjfgjsdfjdjf
 dong 26 test lại lỗi conflict lần cuối 
-Dòng này dùng để test lại pull request lần cuối fix1
+Dòng này dùng để test lại pull request lần cuối quas met moi voi conflict roi fix2
